@@ -1,0 +1,15 @@
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+   <S:Body>
+      <ns2:getAllBooksResponse xmlns:ns2="http://www.cleverbuilder.com/BookService/">
+         <Book>
+            <Author>Antonio</Author>
+         </Book>
+         <Book>
+            <Author>Antonio2</Author>
+         </Book>
+         <Book>
+            <Author>Antonio3</Author>
+         </Book>
+      </ns2:getAllBooksResponse>
+   </S:Body>
+</S:Envelope>
