@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:GetAllBooksResponse
+	xmlns:ns2="http://www.cleverbuilder.com/BookService/">
+	<Book>
+		<Author>Antonio</Author>
+	</Book>
+	<Book>
+		<Author>Antonio2</Author>
+	</Book>
+	<Book>
+		<Author>Antonio3</Author>
+	</Book>
+</ns2:GetAllBooksResponse>
